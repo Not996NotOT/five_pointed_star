@@ -1,8 +1,7 @@
 name: five_pointed_star
-description: A new Flutter package project.
-version: 0.0.1
-homepage:
-author:zx1993023@qq.com
+description: Simple five pointed star control.
+version: 1.0.0
+homepage: https://github.com/Not996NotOT/five_pointed_star
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
