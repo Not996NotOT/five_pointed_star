@@ -28,7 +28,7 @@ FivePointedStar(
           },
         )
 ```
-[example](./example/example.jpg)
+![example](https://github.com/Not996NotOT/five_pointed_star/blob/main/example/example.jpg)
 
 ## Additional information
 
