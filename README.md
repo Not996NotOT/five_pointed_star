@@ -28,6 +28,7 @@ FivePointedStar(
           },
         )
 ```
+[example](./example/example.jpg)
 
 ## Additional information
 
